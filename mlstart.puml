@@ -1,4 +1,4 @@
-@startuml "30 Days of ML Roadmap"
+@startuml "MLStart"
 
 skinparam usecase {
 BackgroundColor transparent
@@ -44,6 +44,7 @@ shadowing false
 (M2: Probability for ML) as M2 << El Mahjoub Abakrim >> #line:darkorange;text:darkorange
 (M3: Statistics for ML) as M3 << El Mahjoub Abakrim >> #line:darkorange;text:darkorange
 (M5: Calculus for ML) as M5 << El Mahjoub Abakrim >> #line:darkorange;text:darkorange 
+(M4: Information Theory for ML) as M4 << El Mahjoub Abakrim >> #line:darkorange;text:darkorange
 
 (A1: Sklearn Classification Assignment)/ as A1 #line:MidnightBlue;text:MidnightBlue
 note bottom [[http://GDSCUIZ.github.io]]
@@ -80,6 +81,7 @@ M1 --> W3
 M2 --> M3
 
 M3 --> E6
+M4 --> E6
 
 M5 --> E7
 
