@@ -35,3 +35,8 @@ This is a series of events fully in Moroccan Darija, the main goal of it is to c
 ### What's next
 
 All attendees will get the chance to participate in the on going #MLOlympiads organized by TFUGAgadir.
+
+
+## References
+- A Complete Machine Learning Package by Jean de Dieu Nyandwi https://devlibrary.withgoogle.com/products/ml/repos/Nyandwi-machine_learning_complete
+- Teaching Data Science by Yogesh H Kulkarni https://github.com/yogeshhk/TeachingDataScience

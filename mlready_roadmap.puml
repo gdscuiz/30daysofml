@@ -1,0 +1,35 @@
+@startuml "30 Days of ML Roadmap"
+
+skinparam usecase {
+BackgroundColor transparent
+shadowing false
+}
+
+(E: Event)
+(W: Workshop) #line:red;text:red
+(M: Math) #line:darkorange;text:darkorange
+(A: Assignment) #line:MidnightBlue;text:MidnightBlue
+(Required)/
+(Optional)
+
+(NLP1: Intro to NLP) as NLP1
+(NLP2: Word Embeddings) as NLP2
+(NLP3: )
+
+
+
+(CV1: Intro to Computer Vision) as CV1
+
+(TAB1: Feature Engineering with Tabular Data) as TAB1
+
+(TS1: Intro to Signal Processing and Time Series) as TS1
+
+(E8: Text Mining) as E8
+
+
+(E8)
+(W13)
+(M6)
+(A7)
+
+@enduml
