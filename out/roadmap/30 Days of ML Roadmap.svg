@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="47px" preserveAspectRatio="none" style="width:269px;height:47px;background:#FFFFFF;" version="1.1" viewBox="0 0 269 47" width="269px" zoomAndPan="magnify"><defs><filter height="300%" id="f16rtpfekj0239" width="300%" x="-1" y="-1"><feGaussianBlur result="blurOut" stdDeviation="2.0"/><feColorMatrix in="blurOut" result="blurOut2" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .4 0"/><feOffset dx="4.0" dy="4.0" in="blurOut2" result="blurOut3"/><feBlend in="SourceGraphic" in2="blurOut3" mode="normal"/></filter></defs><g><a href="http://plantuml.com/link" target="_top" title="http://plantuml.com/link" xlink:actuate="onRequest" xlink:href="http://plantuml.com/link" xlink:show="new" xlink:title="http://plantuml.com/link" xlink:type="simple"><ellipse cx="229.7487" cy="20.5236" fill="#FEFECE" filter="url(#f16rtpfekj0239)" rx="27.7487" ry="14.5236" style="stroke:#A80036;stroke-width:1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="23" x="218.2487" y="23.3703">Car</text></a><a href="http://plantuml.com/sequence" target="_top" title="http://plantuml.com/sequence" xlink:actuate="onRequest" xlink:href="http://plantuml.com/sequence" xlink:show="new" xlink:title="http://plantuml.com/sequence" xlink:type="simple"><ellipse cx="124.6531" cy="20.6013" fill="#FEFECE" filter="url(#f16rtpfekj0239)" rx="42.1531" ry="14.6013" style="stroke:#A80036;stroke-width:1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="43" x="100.1531" y="24.3489">Wheel</text></a><a href="http://plantuml.com" target="_top" title="http://plantuml.com" xlink:actuate="onRequest" xlink:href="http://plantuml.com" xlink:show="new" xlink:title="http://plantuml.com" xlink:type="simple"><path d="M6,8 L6,33.1328 A0,0 0 0 0 6,33.1328 L47,33.1328 A0,0 0 0 0 47,33.1328 L47,26 L82.21,20.5 L47,18 L47,18 L37,8 L6,8 A0,0 0 0 0 6,8 " fill="#FBFB77" filter="url(#f16rtpfekj0239)" style="stroke:#A80036;stroke-width:1.0;"/><path d="M37,8 L37,18 L47,18 L37,8 " fill="#FBFB77" style="stroke:#A80036;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="20" x="12" y="25.0669">foo</text></a><!--MD5=[44ef2495c5adbe6a36e4c2ad0e4b6b64]
+@startuml "30 Days of ML Roadmap"
+(Car) [[http://plantuml.com/link]]
+(Wheel) [[http://plantuml.com/sequence]]
+note left [[http://plantuml.com]]
+foo
+end note
+@enduml
+
+PlantUML version 1.2022.0(Tue Jan 11 17:16:42 WEST 2022)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: UTF-8
+Language: en
+Country: US
+--></g></svg>
