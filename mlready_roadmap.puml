@@ -15,8 +15,8 @@ shadowing false
 (MLStart) as ML
 
 
-(NLP1: Intro to NLP)/ as NLP1 <<Noura Bentaher>>
-(NLP2: Word Embeddings)/ as NLP2
+(NLP1: Intro to NLP)/ as NLP1 <<Taha bouhsine>>
+(NLP2: Word Embeddings)/ as NLP2 <<Taha bouhsine>>
 (WNLP1: Text Preparation with TF)/ as WNLP1 #line:red;text:red
 (WNLP2: Sentimental Analysis with TF)/ as WNLP2 #line:red;text:red
 (WNLP3: Seq2Seq with TF)/ as WNLP3 #line:red;text:red
@@ -38,11 +38,11 @@ end note
 
 
 (CV1: Intro to Computer Vision)/ as CV1 <<Noura Bentaher>>
-(CV2: Intro to Image Processing)/ as CV2
-(CV3: Feature Extraction Methods) as CV3
-(WCV1: Image Classifiation with TF Dense)/ as WCV1 #line:red;text:red
-(WCV2: CNN Image Classifiation with TF)/ as WCV2 #line:red;text:red
-(WCV3: Image Data Augmentation with TF)/ as WCV3 #line:red;text:red
+(CV2: Intro to Image Processing)/ as CV2 <<Noura Bentaher>>
+(CV3: Feature Extraction Methods) as CV3 <<Souad Saidi>>
+(WCV1: Image Classifiation with TF Dense)/ as WCV1 #line:red;text:red 
+(WCV2: CNN Image Classifiation with TF)/ as WCV2 <<Yassine ELjakani>> #line:red;text:red 
+(WCV3: Image Data Augmentation with TF)/ as WCV3 <<Yassine ELjakani>> #line:red;text:red
 
 (A10: Image Classification with TF)/ as A10 #line:MidnightBlue;text:MidnightBlue
 note bottom [[http://GDSCUIZ.github.io]]
@@ -56,10 +56,10 @@ end note
 
 
 
-(TAB1: Feature Engineering with Tabular Data)/ as TAB1
-(TAB2: Advanced EDA and Data Visualization)/ as TAB2
+(TAB1: Feature Engineering with Tabular Data)/ as TAB1 
+(TAB2: Advanced EDA and Data Visualization)/ as TAB2 <<souad saidi>>
 (TAB3: Intro to D3.js) as TAB3
-(TAB4: TabNet) as TAB4
+(TAB4: TabNet) as TAB4 
 (WTAB1: EDA on Kaggle Dataset)/ as WTAB1 #line:red;text:red
 
 
@@ -95,13 +95,13 @@ end note
 
 
 
-(E8: Text Mining) as E8
+(E8: Text Mining) as E8 <<Ayoub bouihrouchane>>
 (E9: Beyond DNNs)/ as E9
 (E10: Recurent Neural Netowrk)/ as E10
-(E11: Convolutional Neural Network)/ as E11
+(E11: Convolutional Neural Network)/ as E11 <<Yassine ELjakani>>
 (E12: Transformers) as E12
 (E13: AutoEncoders) as E13
-(E14: GAN) as E14
+(E14: GAN) as E14 <<Noura Bentaher>>
 
 (E15: TensorBoard)/ as E15
 (E16: TF Datasets)/ as E16
