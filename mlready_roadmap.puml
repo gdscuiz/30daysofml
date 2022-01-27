@@ -12,7 +12,7 @@ shadowing false
 (Required)/
 (Optional)
 
-(MLStart) as ML
+(MLReady) as ML
 
 
 (NLP1: Intro to NLP)/ as NLP1 <<Taha bouhsine>>
@@ -103,8 +103,8 @@ end note
 (E13: AutoEncoders) as E13 <<Ayoub bouihrouchane>>
 (E14: GAN) as E14 <<Noura Bentaher>>
 
-(E15: TensorBoard)/ as E15
-(E16: TF Datasets)/ as E16
+(E15: TensorBoard)/ as E15 <<Chaïma Elmejgari>>
+(E16: TF Datasets)/ as E16 <<Chaïma Elmejgari>>
 
 ML --> NLP1
 ML --> TAB1
