@@ -14,13 +14,13 @@ shadowing false
 (E1: AI First + ML 101)/ as E1 <<Taha Bouhsine>>
 
 (E2: Intro to Data)/ as E2 
-(E3: Intro to Colab) as E3
+(E3: Intro to Colab) as E3 <<Said Elhachemy>>
 (E4: Python in Kaggle) as E4 << Lahcen Oussayd >>
 (E5: Supervised Machine Learning)/ as E5 <<Taha Bouhsine>>
 (E5_1: Linear Regression)/ as E5_1
 (E5_2: SVM)/ as E5_2
 (E5_3: Decision Tree)/ as E5_3
-(E5_4: Random Forest)/ as E5_4
+(E5_4: Random Forest)/ as E5_4 <<Oumaima Kaissi>>
 (E6: Intro to EDA)/ as E6 <<Taha Bouhsine>>
 (E7: Intro to Deep Learning)/ as E7 << Ayoub Bouihrouchane >>
 
@@ -29,14 +29,14 @@ shadowing false
 
 (W1: Supervised ML with sklearn)/ as W1 << Chaimae Majgari>> #line:red;text:red 
 (W2: Intro to Python)/ as W2 #line:red;text:red
-(W3: Linear Algebra with Numpy)/ as W3 #line:red;text:red
-(W4: Data Preparation with Pandas)/ as W4 #line:red;text:red
-(W5: Intro to JAX)/ as W5 #line:red;text:red
-(W6: Intro to Data Visualization with Python)/ as W6 #line:red;text:red
+(W3: Linear Algebra with Numpy)/ as W3 <<Said Elhachemy>> #line:red;text:red
+(W4: Data Preparation with Pandas)/ as W4 <<Oumaima Kaissi>> #line:red;text:red
+(W5: Intro to JAX)/ as W5 <<Said Elhachemy>> #line:red;text:red
+(W6: Intro to Data Visualization with Python)/ as W6 <<Souad Saidi>> #line:red;text:red
 (W7: EDA with Python)/ as W7 #line:red;text:red
 (W8: Intro to TensorFlow)/ as W8 << Ayoub Bouihrouchane >> #line:red;text:red 
 (W9: OOP with Python)/ as W9 #line:red;text:red
-(W10: NN with JAX) as W10 #line:red;text:red
+(W10: NN with JAX) as W10 <<Said Elhachemy>> #line:red;text:red
 (W11: Functional Programming with Python)/ as W11 #line:red;text:red
 (W12: NN with Numpy)/ as W12 #line:red;text:red
 
