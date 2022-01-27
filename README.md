@@ -47,6 +47,14 @@ Anyone willing to become a Machine learning expert is welcome to join
 
 All attendees will get the chance to take part in the ongoing #MLOlympiads organized by TFUGAgadir.
 
+## Planning
+
+## #MLStart
+![mlstart](out/mlstart/MLStart.svg)
+
+## #MLReady
+![mlstart](out/mlready_roadmap/MLReady.svg)
+
 
 
 ## References
