@@ -15,7 +15,7 @@ shadowing false
 (MLStart) as ML
 
 
-(NLP1: Intro to NLP)/ as NLP1
+(NLP1: Intro to NLP)/ as NLP1 <<Noura Bentaher>>
 (NLP2: Word Embeddings)/ as NLP2
 (WNLP1: Text Preparation with TF)/ as WNLP1 #line:red;text:red
 (WNLP2: Sentimental Analysis with TF)/ as WNLP2 #line:red;text:red
@@ -37,7 +37,7 @@ Seq2Seq translation with TF
 end note
 
 
-(CV1: Intro to Computer Vision)/ as CV1
+(CV1: Intro to Computer Vision)/ as CV1 <<Noura Bentaher>>
 (CV2: Intro to Image Processing)/ as CV2
 (CV3: Feature Extraction Methods) as CV3
 (WCV1: Image Classifiation with TF Dense)/ as WCV1 #line:red;text:red
@@ -170,7 +170,5 @@ E9 --> E14
 E10 --> TS2
 
 E11 --> WCV2
-
-
 
 @enduml
