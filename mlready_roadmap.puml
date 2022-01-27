@@ -1,4 +1,4 @@
-@startuml "30 Days of ML Roadmap"
+@startuml "MLReady"
 
 skinparam usecase {
 BackgroundColor transparent
@@ -12,24 +12,161 @@ shadowing false
 (Required)/
 (Optional)
 
-(NLP1: Intro to NLP) as NLP1
-(NLP2: Word Embeddings) as NLP2
-(NLP3: )
+(MLStart) as ML
+
+
+(NLP1: Intro to NLP)/ as NLP1 <<Noura Bentaher>>
+(NLP2: Word Embeddings)/ as NLP2
+(WNLP1: Text Preparation with TF)/ as WNLP1 #line:red;text:red
+(WNLP2: Sentimental Analysis with TF)/ as WNLP2 #line:red;text:red
+(WNLP3: Seq2Seq with TF)/ as WNLP3 #line:red;text:red
+
+(A7: Text Preparation with TF)/ as A7 #line:MidnightBlue;text:MidnightBlue
+note bottom [[http://GDSCUIZ.github.io]]
+Text Preparation of IMDB Dataset with TF
+end note
+
+(A8: Sentimental Analysis with TF)/ as A8 #line:MidnightBlue;text:MidnightBlue
+note bottom [[http://GDSCUIZ.github.io]]
+Sentimental Analysis with TF Twitter Dataset
+end note
+
+(A9: Sentimental Analysis with TF)/ as A9 #line:MidnightBlue;text:MidnightBlue
+note bottom [[http://GDSCUIZ.github.io]]
+Seq2Seq translation with TF
+end note
+
+
+(CV1: Intro to Computer Vision)/ as CV1
+(CV2: Intro to Image Processing)/ as CV2 <<Noura Bentaher>>
+(CV3: Feature Extraction Methods) as CV3
+(WCV1: Image Classifiation with TF Dense)/ as WCV1 #line:red;text:red
+(WCV2: CNN Image Classifiation with TF)/ as WCV2 #line:red;text:red
+(WCV3: Image Data Augmentation with TF)/ as WCV3 #line:red;text:red
+
+(A10: Image Classification with TF)/ as A10 #line:MidnightBlue;text:MidnightBlue
+note bottom [[http://GDSCUIZ.github.io]]
+DNN on MNIST Handwritten Digits
+end note
+
+(A11: CNN Image Classification with TF)/ as A11 #line:MidnightBlue;text:MidnightBlue
+note bottom [[http://GDSCUIZ.github.io]]
+CNN on Fashion MNIST
+end note
 
 
 
-(CV1: Intro to Computer Vision) as CV1
+(TAB1: Feature Engineering with Tabular Data)/ as TAB1
+(TAB2: Advanced EDA and Data Visualization)/ as TAB2
+(TAB3: Intro to D3.js) as TAB3
+(TAB4: TabNet) as TAB4
+(WTAB1: EDA on Kaggle Dataset)/ as WTAB1 #line:red;text:red
 
-(TAB1: Feature Engineering with Tabular Data) as TAB1
 
-(TS1: Intro to Signal Processing and Time Series) as TS1
+(A12: EDA and Feature Engineering)/ as A12 #line:MidnightBlue;text:MidnightBlue
+note bottom [[http://GDSCUIZ.github.io]]
+EDA on Dataset
+end note
+
+
+
+(TS1: Intro to Signal Processing and Time Series)/ as TS1
+(TS2: Deep Learning on Time Series)/ as TS2
+(WTS1: Time Series Data Preparation)/ as WTS1 #line:red;text:red
+(WTS2: Time Series Focasting with TF)/ as WTS2 #line:red;text:red
+(WTS3: Time Series Anomaly Detection with TF)/ as WTS3 #line:red;text:red
+
+(A13: Time Series Data Preparation)/ as A13 #line:MidnightBlue;text:MidnightBlue
+note bottom [[http://GDSCUIZ.github.io]]
+Time Series Data Preparation on Stock Market
+end note
+
+(A14: Forcasting with TF)/ as A14 #line:MidnightBlue;text:MidnightBlue
+note bottom [[http://GDSCUIZ.github.io]]
+Stock Market Forcasting
+end note
+
+(A15: Time Series A)/ as A15 #line:MidnightBlue;text:MidnightBlue
+note bottom [[http://GDSCUIZ.github.io]]
+Anomaly Detection 
+end note
+
+
+
+
 
 (E8: Text Mining) as E8
+(E9: Beyond DNNs)/ as E9
+(E10: Recurent Neural Netowrk)/ as E10
+(E11: Convolutional Neural Network)/ as E11
+(E12: Transformers) as E12
+(E13: AutoEncoders) as E13
+(E14: GAN) as E14
+
+(E15: TensorBoard)/ as E15
+(E16: TF Datasets)/ as E16
+
+ML --> NLP1
+ML --> TAB1
+ML --> TS1
+ML --> CV1
+ML -> E16
+ML -> E15
+ML ---> E9
 
 
-(E8)
-(W13)
-(M6)
-(A7)
+CV1 --> CV2
+CV1 --> E11
+CV1 --> WCV1
 
-@enduml
+
+CV2 --> CV3
+CV2 --> WCV2
+
+WCV3 --> A10
+WCV1 --> WCV3
+
+WCV2 --> A11
+
+NLP1 --> NLP2
+NLP1 --> E8
+NLP1 --> WNLP1
+
+NLP2 --> WNLP2
+NLP2 --> WNLP3
+
+WNLP1 --> A7
+WNLP1 --> WNLP2
+WNLP1 --> WNLP3
+
+WNLP2 --> A8
+WNLP3 --> A9
+
+TAB1 --> TAB2
+TAB1 --> TAB3
+TAB1 --> TAB4
+TAB2 --> WTAB1
+
+WTAB1 --> A12
+
+
+TS1 --> TS2
+
+TS2 --> WTS1
+TS2 --> WTS3
+
+WTS1 --> A13
+WTS2 --> A14
+WTS3 --> A15
+
+TS2 --> WTS2
+
+E9 --> E10
+E9 --> E11
+E9 --> E12
+E9 --> E13
+E9 --> E14
+
+E10 --> TS2
+
+E11 --> WCV2
