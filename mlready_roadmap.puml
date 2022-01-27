@@ -95,12 +95,12 @@ end note
 
 
 
-(E8: Text Mining) as E8 <<Ayoub bouihrouchane>>
+(E8: Text Mining) as E8 
 (E9: Beyond DNNs)/ as E9
 (E10: Recurent Neural Netowrk)/ as E10
 (E11: Convolutional Neural Network)/ as E11 <<Yassine ELjakani>>
 (E12: Transformers) as E12
-(E13: AutoEncoders) as E13
+(E13: AutoEncoders) as E13 <<Ayoub bouihrouchane>>
 (E14: GAN) as E14 <<Noura Bentaher>>
 
 (E15: TensorBoard)/ as E15
