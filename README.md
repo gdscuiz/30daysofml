@@ -60,3 +60,6 @@ All attendees will get the chance to take part in the ongoing #MLOlympiads organ
 ## References
 - A Complete Machine Learning Package by Jean de Dieu Nyandwi https://devlibrary.withgoogle.com/products/ml/repos/Nyandwi-machine_learning_complete
 - Teaching Data Science by Yogesh H Kulkarni https://github.com/yogeshhk/TeachingDataScience
+- Introduction to Computer Vision https://classroom.udacity.com/courses/ud810
+- https://www.udacity.com/course/intro-to-machine-learning--ud120
+- Data Visualization and D3.js https://classroom.udacity.com/courses/ud507/
