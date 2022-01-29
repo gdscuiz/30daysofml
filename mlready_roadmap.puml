@@ -70,11 +70,11 @@ end note
 
 
 
-(TS1: Intro to Signal Processing and Time Series)/ as TS1
-(TS2: Deep Learning on Time Series)/ as TS2
-(WTS1: Time Series Data Preparation)/ as WTS1 #line:red;text:red
-(WTS2: Time Series Focasting with TF)/ as WTS2 #line:red;text:red
-(WTS3: Time Series Anomaly Detection with TF)/ as WTS3 #line:red;text:red
+(TS1: Intro to Signal Processing and Time Series)/ as TS1 <<Said El Hachemy>>
+(TS2: Deep Learning on Time Series)/ as TS2 <<Said El Hachemy>>
+(WTS1: Time Series Data Preparation)/ as WTS1 <<Said El Hachemy>> #line:red;text:red
+(WTS2: Time Series Focasting with TF)/ as WTS2 <<Said El Hachemy>> #line:red;text:red
+(WTS3: Time Series Anomaly Detection with TF)/ as WTS3 <<Said El Hachemy>> #line:red;text:red
 
 (A13: Time Series Data Preparation)/ as A13 #line:MidnightBlue;text:MidnightBlue
 note bottom [[http://GDSCUIZ.github.io]]
@@ -95,7 +95,7 @@ end note
 
 
 
-(E8: Text Mining) as E8 
+(E8: Data Extraction) as E8 <<Ayoub bouihrouchane>>
 (E9: Beyond DNNs)/ as E9
 (E10: Recurent Neural Netowrk)/ as E10
 (E11: Convolutional Neural Network)/ as E11 <<Yassine ELjakani>>
