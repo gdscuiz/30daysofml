@@ -13,7 +13,7 @@ shadowing false
 (E0: 30DaysOfML Init)/ as E0 <<Taha Bouhsine>>
 (E1: AI First + ML 101)/ as E1 <<Taha Bouhsine>>
 
-(E2: Intro to Data)/ as E2 
+(E2: Intro to Data)/ as E2 <<Taha Bouhsine>>
 (E3: Intro to Colab) as E3 <<Said Elhachemy>>
 (E4: Python in Kaggle) as E4 << Lahcen Oussayd >>
 (E5: Supervised Machine Learning)/ as E5 <<Taha Bouhsine>>
@@ -33,7 +33,7 @@ shadowing false
 (W4: Data Preparation with Pandas)/ as W4 <<Oumaima Kaissi>> #line:red;text:red
 (W5: Intro to JAX)/ as W5 <<Said Elhachemy>> #line:red;text:red
 (W6: Intro to Data Visualization with Python)/ as W6 <<Souad Saidi>> #line:red;text:red
-(W7: EDA with Python)/ as W7 #line:red;text:red
+(W7: EDA with Python)/ as W7 <<Taha Bouhsine>> #line:red;text:red
 (W8: Intro to TensorFlow)/ as W8 << Ayoub Bouihrouchane >> #line:red;text:red 
 (W9: OOP with Python)/ as W9 #line:red;text:red
 (W10: NN with JAX) as W10 <<Said Elhachemy>> #line:red;text:red
