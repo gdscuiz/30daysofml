@@ -17,9 +17,9 @@ shadowing false
 
 (NLP1: Intro to NLP)/ as NLP1 <<Taha bouhsine>>
 (NLP2: Word Embeddings)/ as NLP2 <<Taha bouhsine>>
-(WNLP1: Text Preparation with TF)/ as WNLP1 #line:red;text:red
-(WNLP2: Sentimental Analysis with TF)/ as WNLP2 #line:red;text:red
-(WNLP3: Seq2Seq with TF)/ as WNLP3 #line:red;text:red
+(WNLP1: Text Preparation with TF)/ as WNLP1 <<Taha bouhsine>> #line:red;text:red
+(WNLP2: Sentimental Analysis with TF)/ as WNLP2 <<Taha bouhsine>> #line:red;text:red
+(WNLP3: Seq2Seq with TF)/ as WNLP3 <<Taha bouhsine>> #line:red;text:red
 
 (A7: Text Preparation with TF)/ as A7 #line:MidnightBlue;text:MidnightBlue
 note bottom [[http://GDSCUIZ.github.io]]
@@ -60,7 +60,7 @@ end note
 (TAB2: Advanced EDA and Data Visualization)/ as TAB2 <<souad saidi>>
 (TAB3: Intro to D3.js) as TAB3
 (TAB4: TabNet) as TAB4 
-(WTAB1: EDA on Kaggle Dataset)/ as WTAB1 #line:red;text:red
+(WTAB1: EDA on Kaggle Dataset)/ as WTAB1 <<souad saidi>> #line:red;text:red
 
 
 (A12: EDA and Feature Engineering)/ as A12 #line:MidnightBlue;text:MidnightBlue
@@ -127,7 +127,7 @@ WCV3 --> A10
 WCV1 --> WCV3
 
 WCV2 --> A11
-
+WCV3 --> WCV2
 NLP1 --> NLP2
 NLP1 --> E8
 NLP1 --> WNLP1
