@@ -27,7 +27,7 @@ shadowing false
 
 
 
-(W1: Supervised ML with sklearn)/ as W1 << Chaimae Majgari>> #line:red;text:red 
+(W1: Supervised ML with sklearn)/ as W1 << Chaimae Elmejgari>> #line:red;text:red 
 (W2: Intro to Python)/ as W2 #line:red;text:red
 (W3: Linear Algebra with Numpy)/ as W3 <<Said Elhachemy>> #line:red;text:red
 (W4: Data Preparation with Pandas)/ as W4 <<Oumaima Kaissi>> #line:red;text:red
@@ -46,12 +46,12 @@ shadowing false
 (M5: Calculus for ML) as M5 << El Mahjoub Abakrim >> #line:darkorange;text:darkorange 
 (M4: Information Theory for ML) as M4 << El Mahjoub Abakrim >> #line:darkorange;text:darkorange
 
-(A1: Sklearn Classification Assignment)/ as A1 #line:MidnightBlue;text:MidnightBlue
+(A1: Sklearn Classification Assignment)/ as A1 <<Chaimae Elmejgari>> #line:MidnightBlue;text:MidnightBlue
 note bottom [[http://GDSCUIZ.github.io]]
 Heart Disease UCI Dataset
 end note
 
-(A2: Sklearn Regression Assignment)/ as A2 #line:MidnightBlue;text:MidnightBlue
+(A2: Sklearn Regression Assignment)/ as A2 <<Chaimae Elmejgari>> #line:MidnightBlue;text:MidnightBlue
 note bottom [[http://GDSCUIZ.github.io]]
 House Pricing Dataset
 end note
@@ -61,17 +61,17 @@ note bottom [[http://GDSCUIZ.github.io]]
 EDA on Titanic Dataset
 end note
 
-(A4: DNN Regression with TF)/ as A4 #line:MidnightBlue;text:MidnightBlue
+(A4: DNN Regression with TF)/ as A4 <<Ayoub Bouihrouchane>> #line:MidnightBlue;text:MidnightBlue
 note bottom [[http://GDSCUIZ.github.io]]
 Regression using DNNs with TF
 end note
 
-(A5: DNN Classification with TF)/ as A5 #line:MidnightBlue;text:MidnightBlue
+(A5: DNN Classification with TF)/ as A5 <<Ayoub Bouihrouchane>> #line:MidnightBlue;text:MidnightBlue
 note bottom [[http://GDSCUIZ.github.io]]
 Classification using DNNs with TF
 end note
 
-(A6: NN Regression with Numpy)/ as A6 #line:MidnightBlue;text:MidnightBlue
+(A6: NN Regression with Numpy)/ as A6 <<Said Elhachemy>> #line:MidnightBlue;text:MidnightBlue
 note bottom [[http://GDSCUIZ.github.io]]
 Classification using DNNs with TF
 end note
