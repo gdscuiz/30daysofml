@@ -86,7 +86,7 @@ note bottom [[http://GDSCUIZ.github.io]]
 Stock Market Forcasting
 end note
 
-(A15: Time Series A)/ as A15 #line:MidnightBlue;text:MidnightBlue
+(A15: Time Series Anomaly Detection)/ as A15 #line:MidnightBlue;text:MidnightBlue
 note bottom [[http://GDSCUIZ.github.io]]
 Anomaly Detection 
 end note
