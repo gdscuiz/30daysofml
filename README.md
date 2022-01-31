@@ -52,7 +52,7 @@ This is a series of events fully in Moroccan Darija, the main goal of it is to c
 - Finish Assignments
 - Pass the exams to receive your TensorFlow Certificate voucher (worth 100$) 
 
-> Vouchers are limited to the first 20 persons to pass the exams, the rest will be provided with a 50% discount stipend.
+> Vouchers are limited to the first people that pass the exams.
 
 ### Who is eligible to join
 Anyone willing to become a Machine learning expert is welcome to join
