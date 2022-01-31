@@ -56,10 +56,10 @@ end note
 
 
 
-(TAB1: Feature Engineering with Tabular Data)/ as TAB1 
+(TAB1: Feature Engineering with Tabular Data)/ as TAB1 <<lahcen ousayd>>
 (TAB2: Advanced EDA and Data Visualization)/ as TAB2 <<souad saidi>>
 (TAB3: Intro to D3.js) as TAB3 <<Souad Saidi>>
-(TAB4: TabNet) as TAB4 
+(TAB4: TabNet) as TAB4 <<lahcen ousayd>>
 (WTAB1: EDA on Kaggle Dataset)/ as WTAB1 <<souad saidi>> #line:red;text:red
 
 
@@ -86,7 +86,7 @@ note bottom [[http://GDSCUIZ.github.io]]
 Stock Market Forcasting
 end note
 
-(A15: Time Series Anomaly Detection)/ as A15 #line:MidnightBlue;text:MidnightBlue
+(A15: Time Series A)/ as A15 #line:MidnightBlue;text:MidnightBlue
 note bottom [[http://GDSCUIZ.github.io]]
 Anomaly Detection 
 end note
@@ -96,10 +96,10 @@ end note
 
 
 (E8: Data Extraction) as E8 <<Ayoub bouihrouchane>>
-(E9: Beyond DNNs)/ as E9
+(E9: Beyond DNNs)/ as E9 <<lahcen ousayd>>
 (E10: Recurent Neural Netowrk)/ as E10 <<Omar Ezzahir>>
 (E11: Convolutional Neural Network)/ as E11 <<Yassine ELjakani>>
-(E12: Transformers) as E12
+(E12: Transformers) as E12 <<lahcen ousayd>>
 (E13: AutoEncoders) as E13 <<Ayoub bouihrouchane>>
 (E14: GAN) as E14 <<Noura Bentaher>>
 
