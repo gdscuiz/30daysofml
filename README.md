@@ -4,6 +4,20 @@ Welcome to the @GDSCUIZ & @TFUGAgadir 30 Days of Machine Learning Collaboration.
 
 This is a series of events fully in Moroccan Darija, the main goal of it is to create ML practitioners out of our attendees, and prepare them to become certified TensorFlow Developers.
 
+## Table of Contents
+- [#30DaysOfML](#30daysofml)
+  - [Table of Contents](#table-of-contents)
+  - [TL:DR](#tldr)
+    - [Prequetise](#prequetise)
+    - [Plan](#plan)
+    - [What you will take](#what-you-will-take)
+    - [What you will do](#what-you-will-do)
+    - [Who is eligible to join](#who-is-eligible-to-join)
+    - [What's next](#whats-next)
+  - [Planning](#planning)
+    - [#MLStart](#mlstart)
+    - [#MLReady](#mlready)
+  - [References](#references)
 
 
 ## TL:DR
@@ -49,10 +63,10 @@ All attendees will get the chance to take part in the ongoing #MLOlympiads organ
 
 ## Planning
 
-## #MLStart
+### #MLStart
 ![mlstart](out/mlstart/MLStart.svg)
 
-## #MLReady
+### #MLReady
 ![mlstart](out/mlready_roadmap/MLReady.svg)
 
 
