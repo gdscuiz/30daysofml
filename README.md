@@ -1,12 +1,12 @@
 # #30DaysOfML
 
-Welcome to the @GDSCUIZ & @TFUGAgadir 30 Days of Machine Learning.
+Welcome to the [@GDSCUIZ](https://gdsc.community.dev/university-of-ibn-zohr/) & [@TFUGAgadir](https://www.meetup.com/TFUGAgadir), [30 Days of Machine Learning](https://gdscuiz.github.io/30daysofml).
 
-One of the hurdles that hiders self-learners is the language barrier. Instead of focusing on understanding the knowledge required, the learners put great effort into just understanding a single sentence of what's explained.
+One of the hurdles that hiders self-learners is the language barrier. Instead of focusing on understanding the knowledge required, the learners put great effort into just understanding a single sentence of what's been explained.
 
-For the goal of breaking this barrier and helping in enforcing the Democratization of Artificial Intelligence, we, @GDSCUIZ and @TFUGAgadir, ought to create this series of events fully presented in Moroccan Darija, to introduce our attendees to the general concepts needed to solve problems using Machine Learning.
+For the goal of breaking this barrier and helping in enforcing the Democratization of Artificial Intelligence, we, [@GDSCUIZ](https://gdsc.community.dev/university-of-ibn-zohr/) and [@TFUGAgadir](https://www.meetup.com/TFUGAgadir), ought to create this series of events fully presented in Moroccan Darija, to introduce our attendees to the general concepts needed to solve problems using Machine Learning.
 
-At the end of the #30daysofml, our attendees will have a certificate indicating the number of events they did attend. And the attendees that finish all the assignments will be offered the TensorFlow Developer Certificate Voucher to pass the exam.
+At the end of the [#30DaysOfML](https://gdscuiz.github.io/30daysofml), our attendees will have a certificate indicating the number of events they did attend. And the attendees that finish all the assignments will be offered the [TensorFlow Developer Certificate](https://www.tensorflow.org/certificate) Voucher to pass the exam.
 
 ## Table of Contents
 - [#30DaysOfML](#30daysofml)
@@ -64,10 +64,10 @@ All attendees will get the chance to take part in the ongoing #MLOlympiads organ
 ## Planning
 
 ### #MLStart
-![mlstart](out/mlstart/MLStart.svg)
+![mlstart](out/puml/mlstart/MLStart.svg)
 
 ### #MLReady
-![mlstart](out/mlready_roadmap/MLReady.svg)
+![mlstart](out/puml/mlready_roadmap/MLReady.svg)
 
 
 
