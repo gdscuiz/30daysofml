@@ -1,8 +1,12 @@
 # #30DaysOfML
 
-Welcome to the @GDSCUIZ & @TFUGAgadir 30 Days of Machine Learning Collaboration.
+Welcome to the @GDSCUIZ & @TFUGAgadir 30 Days of Machine Learning.
 
-This is a series of events fully in Moroccan Darija, the main goal of it is to create ML practitioners out of our attendees, and prepare them to become certified TensorFlow Developers.
+One of the hurdles that hiders self-learners is the language barrier. Instead of focusing on understanding the knowledge required, the learners put great effort into just understanding a single sentence of what's explained.
+
+For the goal of breaking this barrier and helping in enforcing the Democratization of Artificial Intelligence, we, @GDSCUIZ and @TFUGAgadir, ought to create this series of events fully presented in Moroccan Darija, to introduce our attendees to the general concepts needed to solve problems using Machine Learning.
+
+At the end of the #30daysofml, our attendees will have a certificate indicating the number of events they did attend. And the attendees that finish all the assignments will be offered the TensorFlow Developer Certificate Voucher to pass the exam.
 
 ## Table of Contents
 - [#30DaysOfML](#30daysofml)
@@ -28,11 +32,7 @@ This is a series of events fully in Moroccan Darija, the main goal of it is to c
 
 ### Plan
 
-1. MLStart
-1. MLReady
-1. MLInnovate
-1. MLDeploy
-1. MLOlympiads
+![30daysofml](out/30DaysOFML_Sol_chal.png)
 
 ### What you will take
 
