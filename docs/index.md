@@ -8,7 +8,6 @@ For the goal of breaking this barrier and helping in enforcing the Democratizati
 
 At the end of the #30daysofml, our attendees will have a certificate indicating the number of events they did attend. And the attendees that finish all the assignments will be offered the TensorFlow Developer Certificate Voucher to pass the exam.
 
-
 ## Table of Contents
 - [#30DaysOfML](#30daysofml)
   - [Table of Contents](#table-of-contents)
@@ -33,11 +32,7 @@ At the end of the #30daysofml, our attendees will have a certificate indicating 
 
 ### Plan
 
-1. MLStart
-1. MLReady
-1. MLInnovate
-1. MLDeploy
-1. MLOlympiads
+![30daysofml](out/30DaysOFML_Sol_chal.png)
 
 ### What you will take
 
@@ -69,11 +64,10 @@ All attendees will get the chance to take part in the ongoing #MLOlympiads organ
 ## Planning
 
 ### #MLStart
-
-![mlstart](out/mlstart/MLStart.svg)
+![mlstart](out/puml/mlstart/MLStart.svg)
 
 ### #MLReady
-![mlstart](out/mlready_roadmap/MLReady.svg)
+![mlstart](out/puml/mlready_roadmap/MLReady.svg)
 
 
 

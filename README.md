@@ -64,10 +64,10 @@ All attendees will get the chance to take part in the ongoing #MLOlympiads organ
 ## Planning
 
 ### #MLStart
-![mlstart](out/mlstart/MLStart.svg)
+![mlstart](out/puml/mlstart/MLStart.svg)
 
 ### #MLReady
-![mlstart](out/mlready_roadmap/MLReady.svg)
+![mlstart](out/puml/mlready_roadmap/MLReady.svg)
 
 
 
