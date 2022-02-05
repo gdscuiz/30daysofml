@@ -22,6 +22,7 @@ You can join the training by registering and joining our [@GDSCUIZ](https://gdsc
     - [What you will do](#what-you-will-do)
     - [Who is eligible to join](#who-is-eligible-to-join)
     - [What's next](#whats-next)
+    - [Program Managers](#program-managers)
   - [Planning](#planning)
     - [#MLStart](#mlstart)
     - [#MLReady](#mlready)
@@ -71,6 +72,31 @@ Anyone willing to become a Machine learning expert is welcome to join
 ### What's next
 
 All attendees will get the chance to take part in the ongoing [#MLOlympiad](https://www.kaggle.com/c/ml-olympiad-gdscuiz-and-tfugagadir) organized by [@TFUGAgadir](https://www.meetup.com/TFUGAgadir).
+
+### Program Managers
+If you face any problem or have any question feel free to contact the program managers.
+
+**Managers:**
+
+- 30DaysOfML Manager: **Taha Bouhsine** 
+  - @skywolfmo
+  - contact@tahabouhsine.me
+
+- MLStart Manager: **Ayoub Bouihrouchane**
+  - @ayoubbouih
+
+
+- MLReady Manager: **Noura Bentaher**
+  - @nourabentaher
+
+- MLInnovate Manager: **Said El Hachemy**
+  - @saidelhachemy
+
+- MLDeploy Manager: **Abdelfettah Hilmi**
+  - @abdelfettahhilmi
+
+- MLOlympiad Manager: **Lahcen Ousayd**
+  - @Ous_Lah
 
 ## Planning
 
