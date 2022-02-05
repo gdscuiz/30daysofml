@@ -1,3 +1,4 @@
 site/*
 mkdocs.yml
 out/*
+puml/*
