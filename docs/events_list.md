@@ -19,7 +19,7 @@
       - [W5: **Intro to JAX**](#w5-intro-to-jax)
       - [W6: **Intro to Data Visualization with Python**](#w6-intro-to-data-visualization-with-python)
       - [W7: **EDA with Python**](#w7-eda-with-python)
-      - [W8: **Intro to TensorFlow** << Ayoub Bouihrouchane >>](#w8-intro-to-tensorflow--ayoub-bouihrouchane-)
+      - [W8: **Intro to TensorFlow**](#w8-intro-to-tensorflow)
       - [W9: **OOP with Python**](#w9-oop-with-python)
       - [W10: **NN with JAX**](#w10-nn-with-jax)
       - [W11: **Functional Programming with Python **](#w11-functional-programming-with-python-)
@@ -248,7 +248,7 @@ Goals:
   - Look for Answers
 
 ---
-#### W8: **Intro to TensorFlow** << Ayoub Bouihrouchane >>
+#### W8: **Intro to TensorFlow**
 Speaker: **Ayoub Bouihrouchane** @ayoubbouih 
 
 Date: 21/02/2022
