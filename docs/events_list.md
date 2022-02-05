@@ -39,7 +39,7 @@
   - [#MLReady](#mlready)
   - [#MLInnovate](#mlinnovate)
   - [#MLDeploy](#mldeploy)
-  - [#MLOlympiads](#mlolympiads)
+  - [#MLOlympiad](#mlolympiad)
 
 ## #MLStart
 ![mlstart](out/puml/mlstart/MLStart.svg)
@@ -403,5 +403,5 @@ SVG RAW is Clickable
 <!-- TODO -->
 
 ---
-## #MLOlympiads
+## #MLOlympiad
 <!-- TODO -->
