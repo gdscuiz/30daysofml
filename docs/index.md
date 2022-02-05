@@ -22,10 +22,10 @@ You can join the training by registering and joining our [@GDSCUIZ](https://gdsc
     - [What you will do](#what-you-will-do)
     - [Who is eligible to join](#who-is-eligible-to-join)
     - [What's next](#whats-next)
+    - [Program Managers](#program-managers)
   - [Planning](#planning)
     - [#MLStart](#mlstart)
     - [#MLReady](#mlready)
-  - [References](#references)
 
 
 ## TL:DR
@@ -73,6 +73,31 @@ Anyone willing to become a Machine learning expert is welcome to join
 
 All attendees will get the chance to take part in the ongoing [#MLOlympiad](https://www.kaggle.com/c/ml-olympiad-gdscuiz-and-tfugagadir) organized by [@TFUGAgadir](https://www.meetup.com/TFUGAgadir).
 
+### Program Managers
+If you face any problem or have any question feel free to contact the program managers.
+
+**Managers:**
+
+- 30DaysOfML Manager: **Taha Bouhsine** 
+  - @skywolfmo
+  - contact@tahabouhsine.me
+
+- MLStart Manager: **Ayoub Bouihrouchane**
+  - @ayoubbouih
+
+
+- MLReady Manager: **Noura Bentaher**
+  - @nourabentaher
+
+- MLInnovate Manager: **Said El Hachemy**
+  - @saidelhachemy
+
+- MLDeploy Manager: **Abdelfettah Hilmi**
+  - @abdelfettahhilmi
+
+- MLOlympiad Manager: **Lahcen Ousayd**
+  - @Ous_Lah
+
 ## Planning
 
 ### #MLStart
@@ -80,12 +105,3 @@ All attendees will get the chance to take part in the ongoing [#MLOlympiad](http
 
 ### #MLReady
 ![mlstart](out/puml/mlready_roadmap/MLReady.svg)
-
-
-
-## References
-- A Complete Machine Learning Package by Jean de Dieu Nyandwi https://devlibrary.withgoogle.com/products/ml/repos/Nyandwi-machine_learning_complete
-- Teaching Data Science by Yogesh H Kulkarni https://github.com/yogeshhk/TeachingDataScience
-- Introduction to Computer Vision https://classroom.udacity.com/courses/ud810
-- https://www.udacity.com/course/intro-to-machine-learning--ud120
-- Data Visualization and D3.js https://classroom.udacity.com/courses/ud507/
