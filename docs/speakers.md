@@ -9,11 +9,11 @@
   - [Elhachemy Said](#elhachemy-said)
   - [Elmejgari Chaime](#elmejgari-chaime)
   - [El Jakani Yassine](#el-jakani-yassine)
-  - [**Hilmi Abdelfettah**](#hilmi-abdelfettah)
+  - [Hilmi Abdelfettah](#hilmi-abdelfettah)
   - [Otidrarine El Bachir](#otidrarine-el-bachir)
   - [Zouaid Marouan](#zouaid-marouan)
   - [Kaissi Oumaima](#kaissi-oumaima)
-  - [Oussaid Lahcen](#oussaid-lahcen)
+  - [Ousayd Lahcen](#ousayd-lahcen)
   - [Saidi Souad](#saidi-souad)
 ## Abakrim El Mahjoub 
 ## Bentaher Noura 
@@ -22,9 +22,9 @@
 ## Elhachemy Said
 ## Elmejgari Chaime
 ## El Jakani Yassine
-## **Hilmi Abdelfettah**
+## Hilmi Abdelfettah
 ## Otidrarine El Bachir
 ## Zouaid Marouan  
 ## Kaissi Oumaima 
-## Oussaid Lahcen 
+## Ousayd Lahcen 
 ## Saidi Souad

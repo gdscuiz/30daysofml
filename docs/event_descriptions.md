@@ -9,11 +9,11 @@
       - [E1: AI First + ML 101](#e1-ai-first--ml-101)
       - [E2: Intro to Data  << Taha Bouhsine >>](#e2-intro-to-data---taha-bouhsine-)
       - [E3: Intro to Colab  << Said Elhachemy >>](#e3-intro-to-colab---said-elhachemy-)
-      - [E4: Python in Kaggle  << Lahcen Oussayd >>](#e4-python-in-kaggle---lahcen-oussayd-)
+      - [E4: Python in Kaggle  << Lahcen Ousayd >>](#e4-python-in-kaggle---lahcen-ousayd-)
       - [E5: Supervised Machine Learning  << Taha Bouhsine >>](#e5-supervised-machine-learning---taha-bouhsine-)
-        - [E5_1: Linear Regression << Lahcen Oussayd >>](#e5_1-linear-regression--lahcen-oussayd-)
-        - [E5_2: SVM << Lahcen Oussayd >>](#e5_2-svm--lahcen-oussayd-)
-        - [E5_3: Decision Tree << Lahcen Oussayd >>](#e5_3-decision-tree--lahcen-oussayd-)
+        - [E5_1: Linear Regression << Lahcen Ousayd >>](#e5_1-linear-regression--lahcen-ousayd-)
+        - [E5_2: SVM << Lahcen Ousayd >>](#e5_2-svm--lahcen-ousayd-)
+        - [E5_3: Decision Tree << Lahcen Ousayd >>](#e5_3-decision-tree--lahcen-ousayd-)
         - [E5_4: Random Forest  << Oumaima Kaissi >>](#e5_4-random-forest---oumaima-kaissi-)
       - [E6: Intro to EDA  << Taha Bouhsine >>](#e6-intro-to-eda---taha-bouhsine-)
       - [E7: Intro to Deep Learning  << Ayoub Bouihrouchane >>](#e7-intro-to-deep-learning---ayoub-bouihrouchane-)
@@ -54,7 +54,7 @@
           - @skywolf 
           - contact@tahabouhsine.me
         - Ayoub Bouihrouchane
-![mlstart](out/mlstart/MLStart.svg)
+![mlstart](out/puml/mlstart/MLStart.svg)
 
 ---
 ### Events
@@ -98,8 +98,8 @@
       - Loading Data from Drive
       - Downloading Data from colab
 
-#### E4: Python in Kaggle  << Lahcen Oussayd >>
-    Speaker: Lahcen Oussayd @skywolfmo 
+#### E4: Python in Kaggle  << Lahcen Ousayd >>
+    Speaker: Lahcen Ousayd @skywolfmo 
     Date: XX/02/2022
     Goals: 
       - What is Kaggle
@@ -114,9 +114,9 @@
       - What is Kaggle
         - Kaggle Competitions
         - Kaggle Datasets
-##### E5_1: Linear Regression << Lahcen Oussayd >>
-##### E5_2: SVM << Lahcen Oussayd >>
-##### E5_3: Decision Tree << Lahcen Oussayd >>
+##### E5_1: Linear Regression << Lahcen Ousayd >>
+##### E5_2: SVM << Lahcen Ousayd >>
+##### E5_3: Decision Tree << Lahcen Ousayd >>
 ##### E5_4: Random Forest  << Oumaima Kaissi >>
 #### E6: Intro to EDA  << Taha Bouhsine >>
 #### E7: Intro to Deep Learning  << Ayoub Bouihrouchane >>
@@ -163,7 +163,7 @@
 ---
 ## #MLReady
 SVG RAW is Clickable
-![mlstart](out/mlready_roadmap/MLReady.svg)
+![mlstart](out/puml/mlready_roadmap/MLReady.svg)
 
 ---
 ## #MLInnovate
