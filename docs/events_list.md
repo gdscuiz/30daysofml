@@ -1,7 +1,7 @@
-# Event Description
+# Events List
 
 ## Table of Contents
-- [Event Description](#event-description)
+- [Events List](#events-list)
   - [Table of Contents](#table-of-contents)
   - [#MLStart](#mlstart)
     - [Events](#events)

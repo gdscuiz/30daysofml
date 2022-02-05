@@ -8,12 +8,16 @@ For the goal of breaking this barrier and helping in enforcing the Democratizati
 
 At the end of the [#30DaysOfML](https://gdscuiz.github.io/30daysofml), our attendees will have a certificate indicating the number of events they did attend. And the attendees that finish all the assignments will be offered the [TensorFlow Developer Certificate](https://www.tensorflow.org/certificate) Voucher to pass the exam.
 
+You can join the training by registering and joining our [@GDSCUIZ](https://gdsc.community.dev/university-of-ibn-zohr/) chapter from [here](https://gdsc.community.dev/university-of-ibn-zohr/), or by joining [@TFUGAgadir](https://www.meetup.com/TFUGAgadir) on meetup from this [link](https://www.meetup.com/TFUGAgadir).
+
 ## Table of Contents
 - [#30DaysOfML](#30daysofml)
   - [Table of Contents](#table-of-contents)
   - [TL:DR](#tldr)
     - [Prequetise](#prequetise)
     - [Plan](#plan)
+    - [How to join?](#how-to-join)
+    - [Event List](#event-list)
     - [What you will take](#what-you-will-take)
     - [What you will do](#what-you-will-do)
     - [Who is eligible to join](#who-is-eligible-to-join)
@@ -21,7 +25,6 @@ At the end of the [#30DaysOfML](https://gdscuiz.github.io/30daysofml), our atten
   - [Planning](#planning)
     - [#MLStart](#mlstart)
     - [#MLReady](#mlready)
-  - [References](#references)
 
 
 ## TL:DR
@@ -33,6 +36,14 @@ At the end of the [#30DaysOfML](https://gdscuiz.github.io/30daysofml), our atten
 ### Plan
 
 ![30daysofml](docs/out/30DaysOFML_Sol_chal.png)
+
+### How to join?
+
+You can join the training by registering and joining our [@GDSCUIZ](https://gdsc.community.dev/university-of-ibn-zohr/) chapter from [here](https://gdsc.community.dev/university-of-ibn-zohr/), or by joining [@TFUGAgadir](https://www.meetup.com/TFUGAgadir) on meetup from this [link](https://www.meetup.com/TFUGAgadir).
+
+### Event List
+
+You can find the event list [here](https://gdscuiz.github.io/30daysofml/events_list/), as well as the links of events.
 
 ### What you will take
 
@@ -68,12 +79,3 @@ All attendees will get the chance to take part in the ongoing [#MLOlympiad](http
 
 ### #MLReady
 ![mlstart](out/puml/mlready_roadmap/MLReady.svg)
-
-
-
-## References
-- A Complete Machine Learning Package by Jean de Dieu Nyandwi https://devlibrary.withgoogle.com/products/ml/repos/Nyandwi-machine_learning_complete
-- Teaching Data Science by Yogesh H Kulkarni https://github.com/yogeshhk/TeachingDataScience
-- Introduction to Computer Vision https://classroom.udacity.com/courses/ud810
-- https://www.udacity.com/course/intro-to-machine-learning--ud120
-- Data Visualization and D3.js https://classroom.udacity.com/courses/ud507/
