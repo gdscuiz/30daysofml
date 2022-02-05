@@ -32,7 +32,7 @@ At the end of the [#30DaysOfML](https://gdscuiz.github.io/30daysofml), our atten
 
 ### Plan
 
-![30daysofml](out/30DaysOFML_Sol_chal.png)
+![30daysofml](docs/out/30DaysOFML_Sol_chal.png)
 
 ### What you will take
 
@@ -59,7 +59,7 @@ Anyone willing to become a Machine learning expert is welcome to join
 
 ### What's next
 
-All attendees will get the chance to take part in the ongoing #MLOlympiads organized by TFUGAgadir.
+All attendees will get the chance to take part in the ongoing [#MLOlympiad](https://www.kaggle.com/c/ml-olympiad-gdscuiz-and-tfugagadir) organized by [@TFUGAgadir](https://www.meetup.com/TFUGAgadir).
 
 ## Planning
 

@@ -6,12 +6,13 @@
   - [Bentaher Noura](#bentaher-noura)
   - [Bouhsine Taha](#bouhsine-taha)
   - [Bouihrouchane Ayoub](#bouihrouchane-ayoub)
-  - [Elhachemy Said](#elhachemy-said)
-  - [Elmejgari Chaime](#elmejgari-chaime)
+  - [El Hachemy Said](#el-hachemy-said)
+  - [Elmejgari Chaima](#elmejgari-chaima)
   - [El Jakani Yassine](#el-jakani-yassine)
+  - [Ezzahir Omar](#ezzahir-omar)
   - [Hilmi Abdelfettah](#hilmi-abdelfettah)
   - [Otidrarine El Bachir](#otidrarine-el-bachir)
-  - [Zouaid Marouan](#zouaid-marouan)
+  - [Zouaid Merouane](#zouaid-merouane)
   - [Kaissi Oumaima](#kaissi-oumaima)
   - [Ousayd Lahcen](#ousayd-lahcen)
   - [Saidi Souad](#saidi-souad)
@@ -19,12 +20,13 @@
 ## Bentaher Noura 
 ## Bouhsine Taha 
 ## Bouihrouchane Ayoub 
-## Elhachemy Said
-## Elmejgari Chaime
+## El Hachemy Said
+## Elmejgari Chaima
 ## El Jakani Yassine
+## Ezzahir Omar 
 ## Hilmi Abdelfettah
 ## Otidrarine El Bachir
-## Zouaid Marouan  
+## Zouaid Merouane  
 ## Kaissi Oumaima 
 ## Ousayd Lahcen 
 ## Saidi Souad
