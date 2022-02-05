@@ -13,7 +13,7 @@ shadowing false
 (E0: 30DaysOfML Init)/ as E0 <<Taha Bouhsine>>
 (E1: AI First + ML 101)/ as E1 <<Taha Bouhsine>>
 
-(E2: Intro to Data)/ as E2 <<Taha Bouhsine>>
+(E2: Intro to Data)/ as E2 <<Noura Bentaher>>
 (E3: Intro to Colab) as E3 <<Said Elhachemy>>
 (E4: Python in Kaggle) as E4 << Lahcen Oussayd >>
 (E5: Supervised Machine Learning)/ as E5 <<Taha Bouhsine>>
@@ -21,7 +21,7 @@ shadowing false
 (E5_2: SVM)/ as E5_2 <<Lahcen Ousayd>>
 (E5_3: Decision Tree)/ as E5_3 <<Lahcen Ousayd>>
 (E5_4: Random Forest)/ as E5_4 <<Oumaima Kaissi>>
-(E6: Intro to EDA)/ as E6 <<Taha Bouhsine>>
+(E6: Intro to EDA)/ as E6 <<Souad Saidi>>
 (E7: Intro to Deep Learning)/ as E7 << Ayoub Bouihrouchane >>
 
 
