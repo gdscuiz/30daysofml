@@ -13,7 +13,7 @@
 ### Goal of the Competition
 
 The goal of this [competition](https://www.kaggle.com/c/ml-olympiad-gdscuiz-and-tfugagadir
-) is to accurately classify genomes by building an object detection model trained on underwater videos of coral reefs.
+) is to accurately classify genomes by building a machine learning model.
 
 ### Context 
 
