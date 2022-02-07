@@ -2,27 +2,47 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://gdscuiz.github.io/30daysofml/</loc>
-         <lastmod>2022-02-05</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://gdscuiz.github.io/30daysofml/events_list/</loc>
-         <lastmod>2022-02-05</lastmod>
+         <lastmod>2022-02-07</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://gdscuiz.github.io/30daysofml/policy/</loc>
-         <lastmod>2022-02-05</lastmod>
+         <lastmod>2022-02-07</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://gdscuiz.github.io/30daysofml/references/</loc>
-         <lastmod>2022-02-05</lastmod>
+         <lastmod>2022-02-07</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://gdscuiz.github.io/30daysofml/speakers/</loc>
-         <lastmod>2022-02-05</lastmod>
+         <lastmod>2022-02-07</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://gdscuiz.github.io/30daysofml/events/mldeploy/</loc>
+         <lastmod>2022-02-07</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://gdscuiz.github.io/30daysofml/events/mlinnovate/</loc>
+         <lastmod>2022-02-07</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://gdscuiz.github.io/30daysofml/events/mlolympiad/</loc>
+         <lastmod>2022-02-07</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://gdscuiz.github.io/30daysofml/events/mlready/</loc>
+         <lastmod>2022-02-07</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://gdscuiz.github.io/30daysofml/events/mlstart/</loc>
+         <lastmod>2022-02-07</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
