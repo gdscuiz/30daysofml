@@ -26,6 +26,9 @@ You can join the training by registering and joining our [@GDSCUIZ](https://gdsc
   - [Planning](#planning)
     - [#MLStart](#mlstart)
     - [#MLReady](#mlready)
+    - [#MLInnovate](#mlinnovate)
+    - [#MLDeploy](#mldeploy)
+    - [#MLOlympiad](#mlolympiad)
 
 
 ## TL:DR
@@ -67,14 +70,15 @@ You can find the event list [here](https://gdscuiz.github.io/30daysofml/events_l
 > Vouchers are limited to the first people that pass the exams.
 
 ### Who is eligible to join
-Anyone willing to become a Machine learning expert is welcome to join
+Anyone willing to become a Machine learning expert is welcome to join.
 
 ### What's next
 
 All attendees will get the chance to take part in the ongoing [#MLOlympiad](https://www.kaggle.com/c/ml-olympiad-gdscuiz-and-tfugagadir) organized by [@TFUGAgadir](https://www.meetup.com/TFUGAgadir).
 
 ### Program Managers
-If you face any problem or have any question feel free to contact the program managers.
+
+If you face any problem or have any questions feel free to contact the program managers.
 
 **Managers:**
 
@@ -101,7 +105,32 @@ If you face any problem or have any question feel free to contact the program ma
 ## Planning
 
 ### #MLStart
+All the basics you need to create solutions using Machine learning.
+
 ![mlstart](out/puml/mlstart/MLStart.svg)
 
+[Learn more!](http://gdscuiz.github.io/30daysofml/events/mlstart/)
+
+
 ### #MLReady
+
 ![mlstart](out/puml/mlready_roadmap/MLReady.svg)
+
+[Learn more!](http://gdscuiz.github.io/30daysofml/events/mlready/)
+
+### #MLInnovate
+
+Meet machine learning gurus and learn how they apply machine learning to create impactful solutions.
+
+[Learn more!](http://gdscuiz.github.io/30daysofml/events/mlready/)
+
+### #MLDeploy
+learn about hte challenges, tools and technologies used to deploy machine learning models with Google technologies.
+
+[Learn more!](http://gdscuiz.github.io/30daysofml/events/mlready/)
+
+### #MLOlympiad
+
+Build a genome sequences classifier to predict whether a sequence belong to a human or to a gorilla.
+
+[Learn more!](https://www.kaggle.com/c/ml-olympiad-gdscuiz-and-tfugagadir)
