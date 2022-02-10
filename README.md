@@ -26,6 +26,9 @@ You can join the training by registering and joining our [@GDSCUIZ](https://gdsc
   - [Planning](#planning)
     - [#MLStart](#mlstart)
     - [#MLReady](#mlready)
+    - [#MLInnovate](#mlinnovate)
+    - [#MLDeploy](#mldeploy)
+    - [#MLOlympiad](#mlolympiad)
 
 
 ## TL:DR
@@ -78,30 +81,52 @@ If you face any problem or have any question feel free to contact the program ma
 
 **Managers:**
 
-- 30DaysOfML Manager: **Taha Bouhsine** 
-  - @skywolfmo
-  - contact@tahabouhsine.me
 
-- MLStart Manager: **Ayoub Bouihrouchane**
-  - @ayoubbouih
+- 30DaysOfML Manager: **Taha Bouhsine**  @skywolfmo ***contact@tahabouhsine.me***
+
+- MLStart Manager: **Ayoub Bouihrouchane** @ayoubbouih
 
 
-- MLReady Manager: **Noura Bentaher**
-  - @nourabentaher
+- MLReady Manager: **Noura Bentaher** @nourabentaher
 
-- MLInnovate Manager: **Said El Hachemy**
-  - @saidelhachemy
+- MLInnovate Manager: **Said El Hachemy** @saidelhachemy
 
-- MLDeploy Manager: **Abdelfettah Hilmi**
-  - @abdelfettahhilmi
+- MLDeploy Manager: **Abdelfettah Hilmi** @abdelfettahhilmi
 
-- MLOlympiad Manager: **Lahcen Ousayd**
-  - @Ous_Lah
+- MLOlympiad Manager: 
+    - **Said El Hachemy**
+    - **Taha Bouhsine**
+    - **Lahcen Oussayd**
 
 ## Planning
 
 ### #MLStart
+All the basics you need to create solutions using Machine learning.
+
 ![mlstart](out/puml/mlstart/MLStart.svg)
 
+[Learn more!](http://gdscuiz.github.io/30daysofml/events/mlstart/)
+
+
 ### #MLReady
+
 ![mlstart](out/puml/mlready_roadmap/MLReady.svg)
+
+[Learn more!](http://gdscuiz.github.io/30daysofml/events/mlready/)
+
+### #MLInnovate
+
+Meet machine learning gurus and learn how they apply machine learning to create impactful solutions.
+
+[Learn more!](http://gdscuiz.github.io/30daysofml/events/mlready/)
+
+### #MLDeploy
+learn about hte challenges, tools and technologies used to deploy machine learning models with Google technologies.
+
+[Learn more!](http://gdscuiz.github.io/30daysofml/events/mlready/)
+
+### #MLOlympiad
+
+Build a genome sequences classifier to predict whether a sequence belong to a human or to a gorilla.
+
+[Learn more!](https://www.kaggle.com/c/ml-olympiad-gdscuiz-and-tfugagadir)

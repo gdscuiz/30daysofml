@@ -339,7 +339,7 @@ Goals:
 
 Manager: **Chaima Elmejgari** @ChaimaElmejgari 
 
-Deadline: 31/02/2022
+Deadline: 03/03/2022
 
 Description: 
 
@@ -354,7 +354,7 @@ Link:
 
 Manager: **Chaima Elmejgari** @ChaimaElmejgari 
 
-Deadline: 31/02/2022
+Deadline: 03/03/2022
 
 Description:
 
@@ -368,7 +368,7 @@ Link:
 
 Manager: **Taha Bouhsine** @skywolfmo 
 
-Deadline: 31/02/2022
+Deadline: 03/03/2022
 
 Description:
 
@@ -381,7 +381,7 @@ Link:
 
 Manager: **Ayoub Bouihrouchane** @ayoubbouih 
 
-Deadline: 31/02/2022
+Deadline: 03/03/2022
 
 Description:
 
@@ -394,7 +394,7 @@ Link:
 
 Manager: **Ayoub Bouihrouchane** @ayoubbouih 
 
-Deadline: 31/02/2022
+Deadline: 03/03/2022
 
 Description:
 
@@ -408,7 +408,7 @@ Link:
 
 Manager: **Said Elhachemy** @SaidElhachemy 
 
-Deadline: 31/02/2022
+Deadline: 03/03/2022
 
 Description:
 
