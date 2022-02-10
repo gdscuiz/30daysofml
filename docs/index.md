@@ -39,7 +39,7 @@ You can join the training by registering and joining our [@GDSCUIZ](https://gdsc
 
 ### Plan
 
-![30daysofml](docs/out/30DaysOFML_Sol_chal.png)
+![30daysofml](out/30DaysOFML_Sol_chal.png)
 
 ### How to join?
 
