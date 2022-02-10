@@ -82,25 +82,21 @@ If you face any problem or have any questions feel free to contact the program m
 
 **Managers:**
 
-- 30DaysOfML Manager: **Taha Bouhsine** 
-  - @skywolfmo
-  - contact@tahabouhsine.me
+- 30DaysOfML Manager: **Taha Bouhsine**  @skywolfmo ***contact@tahabouhsine.me***
 
-- MLStart Manager: **Ayoub Bouihrouchane**
-  - @ayoubbouih
+- MLStart Manager: **Ayoub Bouihrouchane** @ayoubbouih
 
 
-- MLReady Manager: **Noura Bentaher**
-  - @nourabentaher
+- MLReady Manager: **Noura Bentaher** @nourabentaher
 
-- MLInnovate Manager: **Said El Hachemy**
-  - @saidelhachemy
+- MLInnovate Manager: **Said El Hachemy** @saidelhachemy
 
-- MLDeploy Manager: **Abdelfettah Hilmi**
-  - @abdelfettahhilmi
+- MLDeploy Manager: **Abdelfettah Hilmi** @abdelfettahhilmi
 
-- MLOlympiad Manager: **Lahcen Ousayd**
-  - @Ous_Lah
+- MLOlympiad Manager: 
+    - **Said El Hachemy**
+    - **Taha Bouhsine**
+    - **Lahcen Oussayd**
 
 ## Planning
 
