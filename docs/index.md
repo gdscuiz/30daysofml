@@ -8,6 +8,23 @@ For the goal of breaking this barrier and helping in enforcing the Democratizati
 
 At the end of the [#30DaysOfML](https://gdscuiz.github.io/30daysofml), our attendees will have a certificate indicating the number of events they did attend. And the attendees that finish all the assignments will be offered the [TensorFlow Developer Certificate](https://www.tensorflow.org/certificate) Voucher to pass the exam.
 
+This [**#30DaysOfML**](https://gdscuiz.github.io/30daysofml) is split into 5 phases.
+
+The first phase, [**#MLStart**](https://gdscuiz.github.io/30daysofml/events/mlstart), introduce the attendees to the basics needed to get started with creating solutions using Machine Learning.
+
+The second phase, [**#MLReady**](https://gdscuiz.github.io/30daysofml/events/mlready), will get into more details about the application of machine learning in NLP, Computer Vision, and Time Series with TensorFlow.
+
+After attending the [**#MLStart**](https://gdscuiz.github.io/30daysofml/events/mlstart) and [**#MLReady**](https://gdscuiz.github.io/30daysofml/events/mlready) and finishing the assignments before the deadline, students will be eligible to receive a voucher to pass the TensorFlow Certificate Program exam (Limited Number, Sponsored by [**Google Developers**]()).
+
+Then the [**#MLDeploy**](https://gdscuiz.github.io/30daysofml/events/mldeploy) will focus more on Machine Learning models deployment in the Google and TensorFlow ecosystem.
+
+Then the [**#MLInnovate**](https://gdscuiz.github.io/30daysofml/events/mlinnovate), where we will host Machine Learning practitioners to learn how they use ML to create impactful solutions.
+
+Lastly, as part of the [**#30DaysOfML**](https://gdscuiz.github.io/30daysofml), we did launch the [**#MLOlympiad**](https://gdscuiz.github.io/30daysofml/events/mlolympiad) Kaggle competition, where participants try to create Machine Learning models to **classify** whether a genome sequence belongs to **Humans** or **Gorillas**. 
+
+> The top 3 teams will receive swag prizes sponsored by **Google Developers**.
+
+
 You can join the training by registering and joining our [@GDSCUIZ](https://gdsc.community.dev/university-of-ibn-zohr/) chapter from [here](https://gdsc.community.dev/university-of-ibn-zohr/), or by joining [@TFUGAgadir](https://www.meetup.com/TFUGAgadir) on meetup from this [link](https://www.meetup.com/TFUGAgadir).
 
 ## Table of Contents
@@ -39,7 +56,7 @@ You can join the training by registering and joining our [@GDSCUIZ](https://gdsc
 
 ### Plan
 
-![30daysofml](out/30DaysOFML_Sol_chal.png)
+![30daysofml](docs/out/30DaysOFML_Sol_chal.png)
 
 ### How to join?
 
