@@ -416,12 +416,12 @@ Description:
 
 ---
 ## Math For ML
-Speaker: **El Mahjoub Abakrim** @ElMahjoubAbakrim 
 
 
 ### M1: **Linear algebra for ML**
 
 [RSVP for this event](https://gdsc.community.dev/e/mwms9g/)
+Speaker: **Nouhaila Ait Oussaid** @nouhaait 
 
 Date: 14/02/2022
 
@@ -434,6 +434,8 @@ Goals:
 
 [RSVP for this event](https://gdsc.community.dev/e/m6sd4j/)
 
+Speaker: **Zineb El Kharazi** @zinebel 
+
 Date: 16/02/2022
 
 Goals: 
@@ -445,6 +447,8 @@ Goals:
 
 [RSVP for this event](https://gdsc.community.dev/e/mpevrp/)
 
+Speaker: **Taha Bouhsine** @skywolfmo contact@tahabouhsine.me 
+
 Date: 16/02/2022
 
 Goals: 
@@ -455,6 +459,8 @@ Goals:
 ### M5: **Calculus for ML**  
 
 [RSVP for this event](https://gdsc.community.dev/e/mr4war/)
+
+Speaker: **Nouhaila Ait Oussaid** @nouhaait 
 
 Date: 15/02/2022
 
