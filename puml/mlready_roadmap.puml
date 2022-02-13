@@ -56,10 +56,10 @@ end note
 
 
 
-(TAB1: Feature Engineering with Tabular Data)/ as TAB1 <<lahcen ousayd>>
+(TAB1: Feature Engineering with Tabular Data)/ as TAB1 <<Open>>
 (TAB2: Advanced EDA and Data Visualization)/ as TAB2 <<souad saidi>>
 (TAB3: Intro to D3.js) as TAB3 <<Souad Saidi>>
-(TAB4: TabNet) as TAB4 <<lahcen ousayd>>
+(TAB4: TabNet) as TAB4 <<Open>>
 (WTAB1: EDA on Kaggle Dataset)/ as WTAB1 <<souad saidi>> #line:red;text:red
 
 
@@ -96,10 +96,10 @@ end note
 
 
 (E8: Data Extraction) as E8 <<Ayoub bouihrouchane>>
-(E9: Beyond DNNs)/ as E9 <<lahcen ousayd>>
+(E9: Beyond DNNs)/ as E9 <<Open>>
 (E10: Recurent Neural Netowrk)/ as E10 <<Omar Ezzahir>>
 (E11: Convolutional Neural Network)/ as E11 <<Yassine ELjakani>>
-(E12: Transformers) as E12 <<lahcen ousayd>>
+(E12: Transformers) as E12 <<Open>>
 (E13: AutoEncoders) as E13 <<Ayoub bouihrouchane>>
 (E14: GAN) as E14 <<Noura Bentaher>>
 

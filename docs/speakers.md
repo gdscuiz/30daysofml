@@ -12,10 +12,9 @@
   - [El Kharrazi Zaineb](#el-kharrazi-zaineb)
   - [Ezzahir Omar](#ezzahir-omar)
   - [Hilmi Abdelfettah](#hilmi-abdelfettah)
+  - [Kaissi Oumaima](#kaissi-oumaima)
   - [Otidrarine El Bachir](#otidrarine-el-bachir)
   - [Zouaid Merouane](#zouaid-merouane)
-  - [Kaissi Oumaima](#kaissi-oumaima)
-  - [Ousayd Lahcen](#ousayd-lahcen)
   - [Saidi Souad](#saidi-souad)
 ## Ait Oussayd Nouhaila
 
@@ -38,12 +37,10 @@ https://www.linkedin.com/in/zaineb-el-kharrazi-0ba931135/
 
 ## Hilmi Abdelfettah
 
+## Kaissi Oumaima 
+
 ## Otidrarine El Bachir
 
 ## Zouaid Merouane  
-
-## Kaissi Oumaima 
-
-## Ousayd Lahcen 
 
 ## Saidi Souad
