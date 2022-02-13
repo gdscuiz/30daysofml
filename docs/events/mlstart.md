@@ -114,7 +114,7 @@ Goals:
 
 [RSVP for this event](https://gdsc.community.dev/e/myn6mh/)
 
-Speaker: **Lahcen Ousayd** @Ous_Lah 
+Speaker: **Salma Saaiou** @salma_saaiou
 
 Date: 15/02/2022
 
@@ -130,7 +130,7 @@ Goals:
 
 [RSVP for this event](https://gdsc.community.dev/e/mr9v99/)
 
-Speaker: **Lahcen Ousayd** @ouslah 
+Speaker: **Oumaima Kaissi** @oumakai 
 
 Date: 16/02/2022
 
@@ -447,7 +447,7 @@ Goals:
 
 [RSVP for this event](https://gdsc.community.dev/e/mpevrp/)
 
-Speaker: **Taha Bouhsine** @skywolfmo contact@tahabouhsine.me 
+Speaker: **Said El Hachemy** @said_elhachemy 
 
 Date: 16/02/2022
 
@@ -474,6 +474,8 @@ Goals:
 ### M4: **Information Theory for ML** 
 
 [RSVP for this event](https://gdsc.community.dev/e/m58ne9/)
+
+Speaker: **Yassin El Jakani** @yassin_eljakani 
 
 Date: 17/02/2022
 
