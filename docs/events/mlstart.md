@@ -29,7 +29,6 @@
     - [A3: **EDA Assignment**](#a3-eda-assignment)
     - [A4: **DNN Regression with TF**](#a4-dnn-regression-with-tf)
     - [A5: **DNN Classification with TF**](#a5-dnn-classification-with-tf)
-    - [A6: **NN Regression with Numpy**](#a6-nn-regression-with-numpy)
   - [Math For ML](#math-for-ml)
     - [M1: **Linear algebra for ML**](#m1-linear-algebra-for-ml)
     - [M2: **Probability for ML**](#m2-probability-for-ml)
@@ -130,7 +129,7 @@ Goals:
 
 [RSVP for this event](https://gdsc.community.dev/e/mr9v99/)
 
-Speaker: **Oumaima Kaissi** @oumakai 
+Speaker: **Ayoub Bouihrouchane** @ayoubbouih 
 
 Date: 16/02/2022
 
@@ -148,8 +147,7 @@ Goals:
 
 [RSVP for this event](https://gdsc.community.dev/e/m5zu5e/)
 
-Speaker: **Souad Saidi** @SouadSaidi 
-
+Speaker: **Taha Bouhsine** @skywolfmo
 Date: 18/02/2022
 
 Goals: 
@@ -260,7 +258,7 @@ Goals:
 
 [RSVP for this event](https://gdsc.community.dev/e/mvhwh5/)
 
-Speaker: **Taha Bouhsine** @skywolfmo 
+Speaker: **Souad Saidi** @souadsaidi 
 
 Date: 22/02/2022
 
@@ -337,9 +335,9 @@ Goals:
 
 [Problem Statement]()
 
-Manager: **Chaima Elmejgari** @ChaimaElmejgari 
+Manager: **Taha Bouhsine** @skywolfmo 
 
-Deadline: 03/03/2022
+Deadline: 26/03/2022
 
 Description: 
 
@@ -352,9 +350,9 @@ Link:
 
 [Problem Statement]()
 
-Manager: **Chaima Elmejgari** @ChaimaElmejgari 
+Manager: **Taha Bouhsine** @skywolfmo
 
-Deadline: 03/03/2022
+Deadline: 26/03/2022
 
 Description:
 
@@ -363,6 +361,19 @@ Link:
 
 ---
 ### A3: **EDA Assignment** 
+
+[Problem Statement]()
+
+Manager: **Taha Bouhsine** @skywolfmo
+
+Deadline: 26/03/2022
+
+Description:
+
+Link:
+
+---
+### A4: **DNN Regression with TF** 
 
 [Problem Statement]()
 
@@ -375,43 +386,17 @@ Description:
 Link:
 
 ---
-### A4: **DNN Regression with TF** 
-
-[Problem Statement]()
-
-Manager: **Ayoub Bouihrouchane** @ayoubbouih 
-
-Deadline: 03/03/2022
-
-Description:
-
-Link:
-
----
 ### A5: **DNN Classification with TF**
 
 [Problem Statement]()
 
-Manager: **Ayoub Bouihrouchane** @ayoubbouih 
+Manager: **Taha Bouhsine** @skywolfmo 
 
 Deadline: 03/03/2022
 
 Description:
 
 Link:
-
-
----
-### A6: **NN Regression with Numpy** 
-
-[Problem Statement]()
-
-Manager: **Said Elhachemy** @SaidElhachemy 
-
-Deadline: 03/03/2022
-
-Description:
-
 
 
 ---
