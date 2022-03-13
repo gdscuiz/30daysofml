@@ -101,7 +101,7 @@ If you face any problem or have any question feel free to contact the program ma
 
 - 30DaysOfML Manager: **Taha Bouhsine**  @skywolfmo ***contact@tahabouhsine.me***
 
-- MLStart Co-Manager: **Ayoub Bouihrouchane** @ayoubbouih
+- MLStart Co-Manager: **Mariam El Katmour** @marment
 
 
 - MLReady Co-Manager: **Noura Bentaher** @nourabentaher
