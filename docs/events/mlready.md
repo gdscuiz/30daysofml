@@ -47,11 +47,12 @@
 
 Speaker: **Taha Bouhsine** @skywolfmo 
 
-Date: 13/02/2022 19:30 -> 20:30
+Date: x/x/2022 19:30 -> 20:30
 
 Goals: 
 
-  - DNN problems
+  - Beautiful Soop
+  - Text Cleaning using REGEX
 
 ---
 ### E9: Beyond DNNs
@@ -87,7 +88,12 @@ Date: x/03/2022 19:30 -> 20:30
 
 Goals: 
 
-  - 
+  - Avantages of RNN
+  - Drawbacks of RNN
+  - RNN Architectures
+    - Simple RNN
+    - LSTM
+    - GRU
 
 ---
 ### E11: Convolutional Neural Network
@@ -100,7 +106,8 @@ Date: x/03/2022 19:30 -> 20:30
 
 Goals: 
 
-  - 
+  - To CNN or not to CNN
+  - Theory only
 
 ---
 ### E12: Transformers
@@ -113,7 +120,9 @@ Date: x/03/2022 19:30 -> 20:30
 
 Goals: 
 
-  - 
+  - Intro to Transformers
+
+
 ---
 ### E13: Autoencoders
 
@@ -125,7 +134,7 @@ Date: x/03/2022 19:30 -> 20:30
 
 Goals: 
 
-  - 
+  - Intro to Autoencoders
 
 ---
 ### E14: GAN
@@ -138,7 +147,7 @@ Date: x/03/2022 19:30 -> 20:30
 
 Goals: 
 
-  - 
+  - Intro to GAN
 
 ---
 ### E15: TensorBoard
@@ -151,7 +160,8 @@ Date: x/03/2022 19:30 -> 20:30
 
 Goals: 
 
-  - 
+  - The use of TensorBoard
+  - Small Workshop
 
 ---
 ### E16: TF Datasets
@@ -164,7 +174,8 @@ Date: x/03/2022 19:30 -> 20:30
 
 Goals: 
 
-  - 
+  - What are TF Datasets
+  - Small Workshop
 
 
 
@@ -181,7 +192,7 @@ Date: x/03/2022 19:30 -> 20:30
 
 Goals: 
 
-  - 
+  - Basics of NLP
 
 ---
 ### NLP2: Word Embeddings
@@ -194,7 +205,7 @@ Date: x/03/2022 19:30 -> 20:30
 
 Goals: 
 
-  - 
+  - Power of Word Embeddings
 
 ---
 ### WNLP1: Text Preparation with TF
@@ -207,7 +218,7 @@ Date: x/03/2022 19:30 -> 20:30
 
 Goals: 
 
-  - 
+  - Prepare Tweets Dataset with TF
 
 ---
 ### WNLP2: Sentimental Analysis with TF
@@ -220,7 +231,7 @@ Date: x/03/2022 19:30 -> 20:30
 
 Goals: 
 
-  - 
+  - Sentimental ANalysis on Tweets Dataset with TF 
 
 ---
 ### WNLP3: Seq2Seq with TF
@@ -233,7 +244,7 @@ Date: x/03/2022 19:30 -> 20:30
 
 Goals: 
 
-  - 
+  - Seq2Seq Traslation with TF
 
 ---
 ## Computer Vision
@@ -248,6 +259,9 @@ Date: x/03/2022 19:30 -> 20:30
 
 Goals: 
 
+  - What is Computer Vision
+  - Tasks and Goals
+  - Challenges
   - 
 
 ---
@@ -261,7 +275,10 @@ Date: x/03/2022 19:30 -> 20:30
 
 Goals: 
 
-  - 
+  - What is an Image
+  - Filters
+  - Transformations
+  - Convolutions
 
 ---
 ### CV3: Feature Extraction Methods
@@ -274,7 +291,7 @@ Date: x/03/2022 19:30 -> 20:30
 
 Goals: 
 
-  - 
+  - Popular algorithms
 
 ---
 ### WCV1: Image Classification with TF Dense
@@ -287,7 +304,8 @@ Date: x/03/2022 19:30 -> 20:30
 
 Goals: 
 
-  - 
+  - Loading images
+  - Training Dense Model 
 
 ---
 ### WCV2: CNN Image Classification with TF 
@@ -300,7 +318,8 @@ Date: x/03/2022 19:30 -> 20:30
 
 Goals: 
 
-  - 
+  - Loading Images
+  - Traning CNN Model
 
 ---
 ### WCV3: Image Data Augmentation with TF
@@ -313,7 +332,7 @@ Date: x/03/2022 19:30 -> 20:30
 
 Goals: 
 
-  - 
+  - Image Data generator from keras 
 
 
 
@@ -331,7 +350,9 @@ Date: x/03/2022 19:30 -> 20:30
 
 Goals: 
 
-  - 
+  - What is a Signal or a Time Series
+  - Usage of Time Series
+  - Applications in Time Series
 
 ---
 ### TS2: Deep Learning on Time Series
@@ -344,7 +365,7 @@ Date: x/03/2022 19:30 -> 20:30
 
 Goals: 
 
-  - 
+  - Different DL Tasks
 
 ---
 ### WTS1: Time Series Data Preparation
@@ -357,7 +378,8 @@ Date: x/03/2022 19:30 -> 20:30
 
 Goals: 
 
-  - 
+  - Loading Time Series
+  - Creating Windows
 
 ---
 ### WTS2: Time Series Forcasting with TF
@@ -370,7 +392,7 @@ Date: x/03/2022 19:30 -> 20:30
 
 Goals: 
 
-  - 
+  - Focasting with TF
 
 ---
 ### WTS3: Time Series Anommaly Detection with TF
@@ -383,7 +405,7 @@ Date: x/03/2022 19:30 -> 20:30
 
 Goals: 
 
-  - 
+  - Time Series Classification with TF
 
 
 
@@ -403,7 +425,9 @@ Date: x/03/2022 19:30 -> 20:30
 
 Goals: 
 
-  - 
+  - PCA
+  - SVD
+  - Autoencoders
 
 ---
 ### TAB2: Advanced EDA and Data Visualization
@@ -416,7 +440,8 @@ Date: x/03/2022 19:30 -> 20:30
 
 Goals: 
 
-  - 
+  - Dashboards
+  - BI Basics
 
 ---
 ### TAB3: Intro to D3.js
@@ -429,7 +454,7 @@ Date: x/03/2022 19:30 -> 20:30
 
 Goals: 
 
-  - 
+  - Data Visualization with D3.js
 
 ---
 ### TAB4: TabNet
@@ -442,7 +467,7 @@ Date: x/03/2022 19:30 -> 20:30
 
 Goals: 
 
-  - 
+  - TabNet Architecture
 
 ---
 ### WTAB1: EDA in practice
@@ -455,5 +480,5 @@ Date: x/03/2022 19:30 -> 20:30
 
 Goals: 
 
-  - 
+  - EDA zero to hero on a Kaggle dataset
 
