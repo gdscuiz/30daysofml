@@ -108,7 +108,7 @@ If you face any problem or have any question feel free to contact the program ma
 
 - MLInnovate Co-Manager: **Said El Hachemy** @saidelhachemy
 
-- MLDeploy Co-Manager: **Abdelfettah Hilmi** @abdelfettahhilmi
+- MLDeploy Co-Manager: 
 
 - MLOlympiad Co-Manager: 
     - **Said El Hachemy**
